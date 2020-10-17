@@ -1,4 +1,2 @@
 # Beginner-Vanilla-JavaScript-Project-Tutorial
-https://www.youtube.com/watch?v=Ttf3CEsEwMQ
-
-ToDo List
+ToDo List : https://www.youtube.com/watch?v=Ttf3CEsEwMQ
